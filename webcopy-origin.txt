@@ -1,0 +1,464 @@
+Uri: https://www.yollando.com/en/shopping-in-turkey/
+File Name: C:\Downloaded Web Sites\www.yollando.com\en\shopping-in-turkey\index.htm
+Content Type: text/html
+
+Uri: https://www.yollando.com/wp-content/uploads/yollando-logo.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\yollando-logo.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/facebook.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\facebook.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/twitter.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\twitter.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/instagram-2.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\instagram-2.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/linkedin.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\linkedin.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/Inner-Banner-Background-Image.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\Inner-Banner-Background-Image.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/images/404-Error-Style-One-Background-Image.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\images\404-Error-Style-One-Background-Image.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/images/Maintenance-More-Style-One-Image.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\images\Maintenance-More-Style-One-Image.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/images/Maintenance-More-Style-Two-Image.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\images\Maintenance-More-Style-Two-Image.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/images/Maintenance-More-Style-Three-Image.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\images\Maintenance-More-Style-Three-Image.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/images/Coming-Soon-Style-One-Background-Image.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\images\Coming-Soon-Style-One-Background-Image.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/images/Coming-Soon-Style-Two-Background-Image.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\images\Coming-Soon-Style-Two-Background-Image.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/images/Coming-Soon-Style-Three-Background-Image.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\images\Coming-Soon-Style-Three-Background-Image.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/home-banner-background-tr.png?id=10082
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\home-banner-background-tr.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/yorumBackground1-1.png?id=10331
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\yorumBackground1-1.png
+Content Type: image/png
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\www.yollando.com\xfn\11.html
+Content Type: text/html
+
+Uri: https://www.yollando.com/en/feed/
+File Name: C:\Downloaded Web Sites\www.yollando.com\en\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://www.yollando.com/en/comments/feed/
+File Name: C:\Downloaded Web Sites\www.yollando.com\en\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://www.yollando.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.3
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/plugins/radiantthemes-addons/assets/css/radiantthemes-addons-core.min.css?ver=1630592601
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\radiantthemes-addons\assets\css\radiantthemes-addons-core.min.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/plugins/radiantthemes-mega-menu/assets/css/rt-megamenu.css?ver=4.9.16
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\radiantthemes-mega-menu\assets\css\rt-megamenu.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/plugins/wonderplugin-gridgallery/engine/wonderplugingridgalleryengine.css?ver=4.9.16
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\wonderplugin-gridgallery\engine\wonderplugingridgalleryengine.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.8.1
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.8.1
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.8.1
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/css/elusive-icons.min.css
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\css\elusive-icons.min.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/css/animate.min.css
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\css\animate.min.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/css/radiantthemes-custom.css
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\css\radiantthemes-custom.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/css/radiantthemes-responsive.css
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\css\radiantthemes-responsive.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/css/radiantthemes-header-style-two.css
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\css\radiantthemes-header-style-two.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/css/radiantthemes-footer-style-six.css
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\css\radiantthemes-footer-style-six.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/style.css?ver=4.9.16
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\style.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/css/radiantthemes-user-custom.css?ver=1630592601
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\css\radiantthemes-user-custom.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/css/radiantthemes-dynamic.css?ver=1630592601
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\css\radiantthemes-dynamic.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-json/
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://www.yollando.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.yollando.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.yollando.com%2Fen%2Fshopping-in-turkey%2F
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://www.yollando.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.yollando.com%2Fen%2Fshopping-in-turkey%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://www.yollando.com/wp-content/uploads/yollando-icon.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\yollando-icon.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/yollando-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\yollando-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/yollandocom
+File Name: C:\Downloaded Web Sites\www.yollando.com\yollandocom.html
+Content Type: text/html
+
+Uri: https://twitter.com/yollandocom
+File Name: C:\Downloaded Web Sites\www.yollando.com\yollandocom-1.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400
+File Name: C:\Downloaded Web Sites\www.yollando.com\css.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.4
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\revslider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://www.yollando.com/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/plugins/wonderplugin-gridgallery/engine/wonderplugingridlightbox.js?ver=14.2
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\wonderplugin-gridgallery\engine\wonderplugingridlightbox.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/plugins/wonderplugin-gridgallery/engine/wonderplugingridgallery.js?ver=14.2
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\wonderplugin-gridgallery\engine\wonderplugingridgallery.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.8.1
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.1
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\js_composer\assets\js\vendors\woocommerce-add-to-cart.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/js/retina.min.js?ver=1
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\js\retina.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-80710540-1
+File Name: C:\Downloaded Web Sites\www.yollando.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/uploads/logo-white-1.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\logo-white-1.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/home-banner-tr.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\home-banner-tr.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/adim1-gorsel.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\adim1-gorsel.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/adim2-gorsel.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\adim2-gorsel.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/adim3-gorse.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\adim3-gorse.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/adim4-gorsel.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\adim4-gorsel.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/adim5-gorsel.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\adim5-gorsel.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/adim1-gorsel-180x180.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\adim1-gorsel-180x180.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/adim2-gorsel-180x180.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\adim2-gorsel-180x180.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/adim3-gorse-180x180.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\adim3-gorse-180x180.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/adim4-gorsel-180x180.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\adim4-gorsel-180x180.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/adim5-gorsel-180x180.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\adim5-gorsel-180x180.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/plugins/revslider/public/assets/assets/dummy.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\revslider\public\assets\assets\dummy.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/yollandoshop-final.mp4
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\yollandoshop-final.mp4
+Content Type: video/mp4
+
+Uri: https://www.yollando.com/wp-content/uploads/sevilen-firmalar.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\sevilen-firmalar.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/visa.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\visa.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/mastercard.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\mastercard.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/mastercard2.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\mastercard2.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/american-express.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\american-express.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/cb.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\cb.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/discover.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\discover.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/jcb.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\jcb.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/diners-club.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\diners-club.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/unionpay.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\unionpay.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/paypal.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\paypal.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/visa-electrom.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\visa-electrom.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/bancontact.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\bancontact.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/giropay.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\giropay.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/alipay.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\alipay.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/eps.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\eps.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.3
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/plugins/radiantthemes-addons/assets/js/radiantthemes-addons-core.min.js?ver=1630592601
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\radiantthemes-addons\assets\js\radiantthemes-addons-core.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/plugins/radiantthemes-addons/assets/js/radiantthemes-addons-custom.min.js?ver=1630592601
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\radiantthemes-addons\assets\js\radiantthemes-addons-custom.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/plugins/radiantthemes-mega-menu/assets/js/rt-megamenu.js?ver=4.9.16
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\radiantthemes-mega-menu\assets\js\rt-megamenu.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.4
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\revslider\public\assets\js\rbtools.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.4
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\revslider\public\assets\js\rs6.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.8.1
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.8.1
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/js/bootstrap.min.js?ver=4.9.16
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/js/jquery.sidr.min.js?ver=4.9.16
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\js\jquery.sidr.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/js/jquery.matchHeight-min.js?ver=4.9.16
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\js\jquery.matchHeight-min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/js/wow.min.js?ver=4.9.16
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/js/jquery.nicescroll.min.js?ver=4.9.16
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\js\jquery.nicescroll.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/js/jquery.sticky.min.js?ver=4.9.16
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\js\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/themes/seolounge__/js/radiantthemes-custom.js?ver=4.9.16
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\themes\seolounge__\js\radiantthemes-custom.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-includes/js/wp-embed.min.js?ver=4.9.16
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: https://www.yollando.com/wp-content/uploads/home-banner-tr-300x245.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\home-banner-tr-300x245.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/home-banner-tr-768x627.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\home-banner-tr-768x627.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/home-banner-tr-1024x836.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\home-banner-tr-1024x836.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/home-banner-tr-600x490.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\home-banner-tr-600x490.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/sevilen-firmalar-300x243.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\sevilen-firmalar-300x243.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/sevilen-firmalar-768x622.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\sevilen-firmalar-768x622.png
+Content Type: image/png
+
+Uri: https://www.yollando.com/wp-content/uploads/sevilen-firmalar-600x486.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\sevilen-firmalar-600x486.png
+Content Type: image/png
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\www.yollando.com\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/accounts/login/
+File Name: C:\Downloaded Web Sites\www.yollando.com\accounts\login\index.htm
+Content Type: text/html
+
+Uri: https://mc.yandex.ru/watch/54130843/1
+File Name: C:\Downloaded Web Sites\www.yollando.com\watch\54130843\1.gif
+Content Type: image/gif
+
+Uri: https://www.yollando.com/wp-content/uploads/2018/09/122_a-300x67.png
+File Name: C:\Downloaded Web Sites\www.yollando.com\wp-content\uploads\2018\09\122_a-300x67.png
+Content Type: image/png
+
